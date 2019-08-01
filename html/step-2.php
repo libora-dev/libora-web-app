@@ -30,7 +30,7 @@
                         <input type="text" id="" class="large-fld" name="city" value="" placeholder="City">
                     </div>
                     <div class="column3">
-                        <select name="state" class='large-fld'>
+                        <select name="state" class='large-fld' style="border-radius: 8px;">
                             <option value="AL">Alabama</option>
                             <option value="AK">Alaska</option>
                             <option value="AZ">Arizona</option>
