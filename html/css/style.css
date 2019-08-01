@@ -90,6 +90,23 @@ p#home-info span {
     margin-top: 13px;
 }
 
+.grey-container {
+    background-color: #ededed;
+    padding: 60px 0px;
+}
+
+.main-titles {
+    font-size: 1.7em;
+    margin-bottom: 40px;
+    text-indent: 35px;
+}
+
+.main-titles strong {
+        font-weight: 700;
+}
+.main-titles span {
+    color: #7e7e7e;
+}
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 
 }
