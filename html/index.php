@@ -15,19 +15,8 @@
     </head>
     <body>
         <div class="container12">
-            <header>
-                <div class="row">
-                    <div class="column7" id="header-nav">
-                        <a href="https://libora.000webhostapp.com"><img src="images/logo.png" alt="Libora logo"></a>
-                    </div>
-
-                    <div class="column5">
-                        <ul>
-                            <li><a href="/login">Login Here</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </header>
+        
+            <?php include "nav.php"; ?>
 
             <h1 id="home">Need something? Someone might want to barter.</h1>
 
