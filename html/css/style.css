@@ -4,6 +4,9 @@ a {
 p{
     font-size: 1.1em;
 }
+.al {
+    float: left !important;
+}
 #header-nav img {
     float: right;
     height: 60px;

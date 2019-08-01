@@ -1,3 +1,8 @@
+<?php
+
+    $align_logo=1;
+
+?>
 <html>
     <head>
         <meta charset="UTF-8" />
